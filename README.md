@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-f24212?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999ff?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Aseprite-7d929e?style=for-the-badge&logo=aseprite&logoColor=white"/>
 
 #### 최근 관심사
-##### React.js / Three.js / Unity
+##### React.js / Three.js / Electron 
 
 * * *
 진행중인 프로젝트 : Waktaverse Games
