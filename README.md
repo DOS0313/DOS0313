@@ -7,11 +7,11 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-f24212?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999ff?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Aseprite-7d929e?style=for-the-badge&logo=aseprite&logoColor=white"/> <img src="https://cdn.discordapp.com/attachments/938945406279237743/1100049235212247050/Frame_2.svg">
 
 #### 최근 관심사
-##### React.js / Three.js / Electron 
+##### Next.js / Electron / SEO
 
 * * *
 진행중인 프로젝트 : Waktaverse Games
 
-* Discord : DO_S#0313
+* Discord : @dos0313
 * Mail : dos.student0313@gmail.com
 * Wakzoo : Dos_0313
