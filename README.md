@@ -13,5 +13,5 @@
 진행중인 프로젝트 : Waktaverse Games
 
 * Discord : @dos0313
-* Mail : dos.student0313@gmail.com
+* Mail : dos@codezero.lol
 * Wakzoo : Dos_0313
