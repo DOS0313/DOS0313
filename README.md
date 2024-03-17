@@ -46,7 +46,7 @@
 > <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Aseprite-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white"/>
 > </br>
-> <img src="https://img.shields.io/badge/Premiero Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Premiere Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 > <img src="https://img.shields.io/badge/After Effects-9999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Davinci Resolve-233A51.svg?&style=for-the-badge&logo=davinciresolve&logoColor=white"/>
 > </br>
