@@ -6,7 +6,7 @@
 
 <img align="right" src="rolling_girl.gif" margin = "32px" width="400px">
 
-## 👋안녕하세요! Hello! こんにちは!
+## 👋 안녕하세요! Hello! こんにちは!
 > <strong>I'm student developer who like to imagine something.</strong>
 >
 > _"Good design adds value faster than it adds cost."_
@@ -21,7 +21,7 @@
 
 <br/>
 
-## Skills
+## 🛠️ Skills
 > ### Platforms & Languages
 > <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 <br/>
 
-## Main Projects
+## 🧑‍💻 Main Projects
 <a href="https://waktaverse.games"><img alt="Waktaverse Games" src="https://public-r2.waktaverse.games/assets/wakgames_logo/Main.png" height="40px"></a>
 ㅤ
 <a href="https://isegye.live"><img alt="IsegyeChart" src="isegyechart.png" height="40px"></a>
