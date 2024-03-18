@@ -56,7 +56,7 @@
 <br/>
 
 ## 🧑‍💻 Main Projects
-<a href="https://waktaverse.games"><img alt="Waktaverse Games" src="https://public-r2.waktaverse.games/assets/wakgames_logo/Main.png" height="40px"></a>
+> <a href="https://waktaverse.games"><img alt="Waktaverse Games" src="https://public-r2.waktaverse.games/assets/wakgames_logo/Main.png" height="40px"></a>
 ㅤ
 <a href="https://isegye.live"><img alt="IsegyeChart" src="isegyechart.png" height="40px"></a>
 ㅤ
