@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" src="rolling_girl.gif" margin = "32px" width="400px">
+<!--<img align="right" src="rolling_girl.gif" margin = "32px" width="400px">-->
 
 ## 👋 안녕하세요! Hello! こんにちは!
 > <strong>I'm student developer who like to imagine something.</strong>
