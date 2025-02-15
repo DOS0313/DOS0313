@@ -4,60 +4,53 @@
 
 </div>
 
-<!--<img align="right" src="rolling_girl.gif" margin = "32px" width="400px">-->
-
-## 👋 안녕하세요! Hello! こんにちは!
-> <strong>I'm student developer who like to imagine something.</strong>
->
-> _"Good design adds value faster than it adds cost."_
->
+# 👋 Hi there
+I am a student developer who is always imagining and dreaming. <br/>
+While I mainly work on web-related projects, I have a keen interest in all areas of computer science and continuously strive to learn more
+## 🛠️ Tech Stacks
+<!-- Languages -->
+> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 > <br/>
->
-> <img src="https://img.shields.io/badge/@dos0313-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-> <a href="mailto:dos@codezero.lol"><img src="https://img.shields.io/badge/dos@codezero.lol-white.svg?&style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-> <a href="https://www.instagram.com/dos_0313/"><img src="https://img.shields.io/badge/dos_0313-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
->
-> `Language : ko-KR / ja-JP / en-US`  
-
-<br/>
-
-## 🛠️ Skills
-> ### Platforms & Languages
-> <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Script-3C8527.svg?&style=for-the-badge&logo=minecraft&logoColor=white"/>
-> <img src="https://img.shields.io/badge/App Script-4285F4.svg?&style=for-the-badge&logo=googleappsscript&logoColor=white"/>
-> </br>
-> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-> </br>
-> <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
->
-> ### Tools
-> <img src="https://img.shields.io/badge/Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Unity-white.svg?&style=for-the-badge&logo=unity&logoColor=black"/>
-> <img src="https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
-> </br>
-> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Aseprite-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=white"/>
-> </br>
-> <img src="https://img.shields.io/badge/Premiere Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-> <img src="https://img.shields.io/badge/After Effects-9999FF.svg?&style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-> <img src="https://img.shields.io/badge/Davinci Resolve-233A51.svg?&style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-> </br>
-> </br>
-> ⚠️ Note : Not all languages and tools can be handled perfectly.
-
-<br/>
-
-## 🧑‍💻 Main Projects
-> <a href="https://waktaverse.games"><img alt="Waktaverse Games" src="https://public-r2.waktaverse.games/assets/wakgames_logo/Main.png" height="40px"></a>
-ㅤ
-<a href="https://isegye.live"><img alt="IsegyeChart" src="isegyechart.png" height="40px"></a>
-ㅤ
-<a href="https://codezero.lol"><img alt="Code ; Zero" src="codezero.png" height="40px"></a>
+<!-- FE -->
+> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+> <br/>
+<!-- Server -->
+> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+> <br/>
+<!-- Infra -->
+> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+> <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+## 💻 Workspace Specs
+> <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+> <img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+## 📚 Projects
+- **Waktaverse Games** Lead
+  > FE Development & UI/UX Design <br/>
+  > Development of collaboration-related systems/bots <br/>
+  > <br/>
+  > [Service Link](<https://waktaverse.games>)
+- **isegyechart** PM
+  > FE Development & UI/UX Design <br/>
+  > SEO Optimization <br/>
+  > <br/>
+  > [Service Link](<https://isegye.live>)
+- **McDemonas** Plugin Developer
+- **Code : Zero** Lead
+  > 2024 Code : Zero Club Leader <br/>
+  > Dormitalk FE & BE Development <br/>
+  > <br/>
+  > [Service Link](<https://codezero.lol>)
+- **tadak** FE Developer
+- **Riot Games** Third Party Developer
+  > Developed a real-time broadcast overlay system using LCU API & Riot API.
