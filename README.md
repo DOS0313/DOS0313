@@ -51,5 +51,3 @@ While I mainly work on web-related projects, I have a keen interest in all areas
 - **Riot Games** Third Party Developer
 
   > Developed a real-time broadcast overlay system using LCU API & Riot API.
-- **McDemonas** Plugin Developer
-- **tadak** FE Developer
